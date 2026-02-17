@@ -3,7 +3,7 @@ requires = ["setuptools>=75.0.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "prcapi"
+name = "prcapi.py"
 description = "A unofficial API wrapper for PRC."
 readme = "README.md"
 version = "0.0.3"
@@ -39,5 +39,3 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["src"]
-include = ["*"]
-namespaces = false
