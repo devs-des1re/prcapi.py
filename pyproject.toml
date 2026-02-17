@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=75.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "prcapi.py"
+description = "A unofficial API wrapper for PRC."
+readme = "README.md"
+version = "0.0.1"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+
+authors = [ { name="devs_des1re", email="arjunbrij8811@gmail.com" } ]
+maintainers = [ { name="devs_des1re", email="arjunbrij8811@gmail.com" } ]
+
+keywords = [
+    "app",
+    "macOS",
+    "windows",
+    "linux",
+    "flatpak",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Software Development",
+    "Topic :: Utilities",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/devs-des1re/prcapi.py"
+Issues = "https://github.com/devs-des1re/prcapi.py/issues"
