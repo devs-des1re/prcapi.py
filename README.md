@@ -1,6 +1,6 @@
 # unitx
-[![version](https://img.shields.io/pypi/v/unitx.svg?colorB=blue)](https://pypi.org/project/unitx/)
-[![pyversions](https://img.shields.io/pypi/pyversions/prcapi.py.svg?)](https://pypi.org/project/prcapi.py/)
+[![version](https://img.shields.io/pypi/v/prcapi.py.svg?colorB=blue)](https://pypi.org/project/prcapi.py/)
+[![pyversions](https://img.shields.io/pypi/pyversions/prcapi.py.svg)](https://pypi.org/project/prcapi.py/)
 
 A Python library which dynamically converts different types of units.
 
